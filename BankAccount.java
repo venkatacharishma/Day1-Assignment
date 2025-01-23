@@ -33,7 +33,7 @@ class BankAccount {
 
     public static void main(String[] args) {
         BankAccount account = new BankAccount();
-        account.name = "charishma";
+        account.name = " Venkata charishma";
         account.accountNumber = 123456789;
         account.balance = 0;
 
