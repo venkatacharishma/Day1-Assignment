@@ -1,8 +1,8 @@
 class ArrayRotation {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
-        int n = 2; // Number of rotations
-        boolean right = true; // Rotate right or left
+        int n = 2; 
+        boolean right = true; 
 
         int len = arr.length;
         n = n % len;
